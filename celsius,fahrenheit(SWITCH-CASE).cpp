@@ -29,7 +29,9 @@ int main()
         cout << "ERROR INPUT" << endl;
         break;
     }
+    cout<< "thank you"<< endl;
 
     return 10;
 }
+
 
